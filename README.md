@@ -25,8 +25,7 @@
 <a href="https://www.linkedin.com/in/jessica-b-ferreira/">
    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/101604106/202816265-c8a2d9ea-3d79-483d-ba64-6a1ad33ee1cf.png" width="200px" />
+<div
 </div> 
 </div>
 

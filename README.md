@@ -2,7 +2,7 @@
 # Hello World! 
 ## Jessica é meu nome, bem vindo ao meu GitHub! 👋🏻
 
-- Profissional em início de carreira na **área de Dados**, com **perfil analítico**, **organização** e grande interesse em transformar informações em insights para apoiar a tomada de decisões.
+- Profissional em início de carreira na **área de Dados**, com **perfil analítico**, **organização** e grande interesse em transformar informações em insights para apoiar a tomada de decisões
 - Cursando **Sistemas de Informação** na Faculdade Braz Cubas  
 - Formada pelo **Bootcamp Full-Stack JavaScript Junior** da Generation Brasil  
 - Realizando a **Trilha de Analise de Dados da Alura**  

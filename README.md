@@ -1,13 +1,18 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHF26zs9MfpNA/profile-displaybackgroundimage-shrink_350_1400/B4DZwMqZ5WGYAY-/0/1769738969690?e=1771459200&amp;v=beta&amp;t=_lbz5TNnay7L_3VOcQfh1KLm4Sl7BLN7aEXWkioLO50" alt="Jessica Berteloni Ferreira" id="ember452" class="full-width evi-image ember-view">
-
 # Hello World! 
 ## Jessica é meu nome, bem vindo ao meu GitHub! 👋🏻
+
+- Profissional em início de carreira na **área de Dados**, com **perfil analítico**, **organização** e grande interesse em transformar informações em insights para apoiar a tomada de decisões.
+- Cursando **Sistemas de Informação** na Faculdade Braz Cubas  
+- Formada pelo **Bootcamp Full-Stack JavaScript Junior** da Generation Brasil  
+- Realizando a **Trilha de Analise de Dados da Alura**  
+- Aprofundando meus conhecimentos em **Python**, **Lógica de Programação**, **SQL**, **Power BI**, **EXEL** e **IA**
 <!-- <div align="center">
     <a href="https://github.com/jessicabferreira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicabferreira&layout=compact&langs_count=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabferreira&layout=compact&langs_count=7&true&theme=radical"/>
 </div> -->
+
 
 
 ## 🖥️ Tecnologias e Ferramentas em Desenvolvimento:

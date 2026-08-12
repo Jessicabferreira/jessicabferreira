@@ -3,10 +3,11 @@
 ## Jessica é meu nome, bem vindo ao meu GitHub! 👋🏻
 
 - Profissional em início de carreira na **área de Dados**, com **perfil analítico**, **organização** e grande interesse em transformar informações em insights para apoiar a tomada de decisões
-- Cursando **Sistemas de Informação** na Faculdade Braz Cubas  
-- Formada pelo **Bootcamp Full-Stack JavaScript Junior** da Generation Brasil  
+- Cursando **Sistemas de Informação** na Faculdade Braz Cubas
 - Realizando a **Trilha de Analise de Dados da Alura**  
 - Aprofundando meus conhecimentos em **Python**, **Lógica de Programação**, **SQL**, **Power BI**, **EXEL** e **IA**
+- Formada pelo **Bootcamp Full-Stack JavaScript Junior** da Generation Brasil
+  
 <!-- <div align="center">
     <a href="https://github.com/jessicabferreira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicabferreira&layout=compact&langs_count=true&theme=radical"/>

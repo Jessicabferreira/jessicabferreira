@@ -5,7 +5,7 @@
 - Profissional em início de carreira na **área de Dados**, com **perfil analítico**, **organização** e grande interesse em transformar informações em insights para apoiar a tomada de decisões
 - Cursando **Sistemas de Informação** na Faculdade Braz Cubas
 - Realizando a **Trilha de Analise de Dados da Alura**  
-- Aprofundando meus conhecimentos em **Python**, **Lógica de Programação**, **SQL**, **Power BI**, **EXEL** e **IA**
+- Aprofundando meus conhecimentos em **Python**, **Lógica de Programação**, **SQL**, **Power BI**, **Excel** e **IA**
 - Formada pelo **Bootcamp Full-Stack JavaScript Junior** da Generation Brasil
   
 <!-- <div align="center">
